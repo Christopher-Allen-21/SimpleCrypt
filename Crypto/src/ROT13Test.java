@@ -64,6 +64,7 @@ public class ROT13Test {
         System.out.println(Q1);
         System.out.println(A1);
         // Then
+        System.out.println(actual);
         assertTrue(actual.equals(A1));
 
         // When
